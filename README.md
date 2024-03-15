@@ -1,10 +1,8 @@
 <h3 align="center">Hey! I'm @erickloolpez (Erick Lopez) 👋</h3>
 
-I'm studing to be software developer from Ecuador. 🇨🇴
+I'm studing to be a software developer from Ecuador. 🇨🇴
 
 I currently live in Quito, Ecuador. 🇨🇴
-
-I have been building APIs and tools for Machine Learning and data systems, in Latin America, the Middle East, and now Europe, with different teams and organizations. 🌎
 
 I like to build things with SQL , Docker, Python, JavaScript, modern backend APIs, and modern frontend frameworks. 🤖
 
