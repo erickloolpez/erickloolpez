@@ -34,8 +34,9 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erickloolpez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickloolpez)](https://github.com/erickloolpez/github-readme-stats)"/>
   
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -46,5 +47,5 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
-✉️ &nbsp;You can shoot me an email at erickloolpez@hotmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at erickloopeze@hotmail.com! I'll try to respond as soon as I can.\
 
