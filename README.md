@@ -1,26 +1,7 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/1d861079-5097-42f1-8a36-08c29f773278)<div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">erickloolpez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Tdc34Ye.png">
-
-## Sobre mi
-
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Programacion de apps 
-- ✏️ Landings Page 
-
-<br>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/erickloolpez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickloolpez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erickloolpez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<img src="https://i.imgur.com/QSt09bH.png">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,4 +22,25 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Programacion de apps 
+- ✏️ Landings Page 
+
+<br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/erickloolpez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickloolpez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erickloolpez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
