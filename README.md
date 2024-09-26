@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d861079-5097-42f1-8a36-08c29f773278)<div align="center">
+<div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">erickloolpez</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/QSt09bH.png">
