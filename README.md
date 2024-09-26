@@ -47,13 +47,3 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-
-
-
-
