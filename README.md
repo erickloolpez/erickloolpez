@@ -34,8 +34,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erickloolpez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <img  align="center"  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickloolpez)](https://github.com/erickloolpez/github-readme-stats)"/>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 </td>
 </tr>
 </table>
