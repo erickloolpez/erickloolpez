@@ -11,11 +11,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://i.imgur.com/ViH7YD8.png" />
   </a>
-</p>
+</p> -->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
