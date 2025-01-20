@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://aristi.dev">erickloolpez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/QSt09bH.png">
+<img src="https://i.imgur.com/ViH7YD8.png" />
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
