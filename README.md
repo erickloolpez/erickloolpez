@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://imgur.com/a/iP1nXdT" />
+    <img src="https://i.imgur.com/ViH7YD8.png" />
   </a>
 </p>
 
