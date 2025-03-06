@@ -22,8 +22,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-2. ⭐ Starred [platzi/Mlops-platzi](https://github.com/platzi/Mlops-platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--- stats & Trophy (start) -->
