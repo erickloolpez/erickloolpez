@@ -24,9 +24,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 2. ⭐ Starred [platzi/Mlops-platzi](https://github.com/platzi/Mlops-platzi)<br>
-3. ⭐ Starred [SaraCarol/mokepon-Platzi](https://github.com/SaraCarol/mokepon-Platzi)<br>
-4. ⬆️ Pushed 1 commit(s) to [erickloolpez/HTML-CSS](https://github.com/erickloolpez/HTML-CSS)<br>
-5. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--- stats & Trophy (start) -->
