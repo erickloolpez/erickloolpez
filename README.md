@@ -16,12 +16,10 @@
 
 
 ### Mis redes sociales
-[<img src="./assets/social/youtube.png"/>][youtube]
-[<img src="./assets/social/instagram.png"/>][instagram]
-[<img src="./assets/social/linkedin.png"/>][linkedin]
-[<img src="./assets/social/tiktok.png"/>][linkedin]
-[<img src="./assets/social/twitter.png"/>][twitter]
-[<img src="./assets/social/untappd.png"/>][untappd]
+[<img src="./assets/instagram.png"/>][instagram]
+[<img src="./assets/linkedin.png"/>][linkedin]
+[<img src="./assets/tiktok.png"/>][linkedin]
+[<img src="./assets/twitter.png"/>][twitter]
 
 
 <!--h1 without bottom border-->
@@ -85,10 +83,17 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickloolpez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erickloolpez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickloolpez&show_icons=true&locale=en&theme=tokyonight" alt="erickloolpez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=tokyonight" alt="erickloolpez" /></p>
 
+
+[twitter]: https://twitter.com/erickloolpez
+[youtube]: https://www.youtube.com/c/erickloolpez
+[linkedin]: https://www.linkedin.com/in/erickloolpez/
+[instagram]: https://www.instagram.com/erickloolpez/
 
