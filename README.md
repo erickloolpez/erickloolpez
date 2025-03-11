@@ -79,11 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rishavchanda/rishavchanda](https://github.com/rishavchanda/rishavchanda)<br>
-2. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-3. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-4. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-5. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
+1. ⬆️ Pushed 2 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+2. 📔 Created new repository [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+3. ⬆️ Pushed 2 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+4. 📔 Created new repository [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+5. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
