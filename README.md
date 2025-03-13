@@ -81,9 +81,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
-3. ⬆️ Pushed 2 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
-4. 📔 Created new repository [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
-5. ⬆️ Pushed 2 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+3. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+4. ⬆️ Pushed 2 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+5. 📔 Created new repository [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
