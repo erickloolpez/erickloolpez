@@ -79,10 +79,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-2. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-3. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
-4. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+1. ⭐ Starred [adrianhajdin/react-native-movie-app](https://github.com/adrianhajdin/react-native-movie-app)<br>
+2. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+3. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+4. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 5. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
 <!--RECENT_ACTIVITY:end-->
 
