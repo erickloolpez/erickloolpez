@@ -79,10 +79,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+1. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
-3. ⭐ Starred [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)<br>
-4. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+3. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+4. ⭐ Starred [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)<br>
 5. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 <!--RECENT_ACTIVITY:end-->
 
