@@ -79,11 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+1. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 3. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-4. ⭐ Starred [techwithtim/LocalAIAgentWithRAG](https://github.com/techwithtim/LocalAIAgentWithRAG)<br>
-5. ⭐ Starred [AllAboutAI-YT/easy-local-rag](https://github.com/AllAboutAI-YT/easy-local-rag)<br>
+4. ⬆️ Pushed 2 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+5. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
