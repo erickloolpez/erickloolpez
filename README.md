@@ -82,8 +82,8 @@
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 3. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-4. ⬆️ Pushed 2 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
-5. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+4. ⬆️ Pushed 1 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
+5. ⬆️ Pushed 2 commit(s) to [erickloolpez/PYTHON](https://github.com/erickloolpez/PYTHON)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
