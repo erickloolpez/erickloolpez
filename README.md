@@ -82,8 +82,8 @@
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 3. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
-4. ⬆️ Pushed 2 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
-5. 📔 Created new repository [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+5. ⬆️ Pushed 2 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
