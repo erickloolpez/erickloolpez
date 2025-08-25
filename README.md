@@ -79,11 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
-2. ⬆️ Pushed 1 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
+1. 📔 Created new repository [erickloolpez/pomodoro--electron](https://github.com/erickloolpez/pomodoro--electron)<br>
+2. ⬆️ Pushed 2 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
 3. ⬆️ Pushed 1 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
 4. ⬆️ Pushed 1 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
-5. ⬆️ Pushed 2 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
+5. ⬆️ Pushed 1 commit(s) to [erickloolpez/notion-clone--nextjs](https://github.com/erickloolpez/notion-clone--nextjs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
