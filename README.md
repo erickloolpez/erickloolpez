@@ -80,10 +80,10 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
-2. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
-3. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
-4. ⭐ Starred [lovesulei/work_faster](https://github.com/lovesulei/work_faster)<br>
-5. ⬆️ Pushed 1 commit(s) to [erickloolpez/REACT](https://github.com/erickloolpez/REACT)<br>
+2. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+3. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
+4. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
+5. ⭐ Starred [lovesulei/work_faster](https://github.com/lovesulei/work_faster)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
