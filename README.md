@@ -81,9 +81,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
-3. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
-4. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
-5. ⭐ Starred [lovesulei/work_faster](https://github.com/lovesulei/work_faster)<br>
+3. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+4. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
+5. ⭐ Starred [koekeishiya/yabai](https://github.com/koekeishiya/yabai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
