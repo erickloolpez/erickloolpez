@@ -79,11 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-2. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
+2. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
 3. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 4. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
-5. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
+5. ⬆️ Pushed 1 commit(s) to [erickloolpez/dotfiles](https://github.com/erickloolpez/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
