@@ -5,7 +5,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickloolpez&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d6dHZwdHd3Y2ZsN2VteWhlcW1uZzFpN3E2MnFobnlrZ29odXJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skzAE1Vo5rVkc/giphy.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d6dHZwdHd3Y2ZsN2VteWhlcW1uZzFpN3E2MnFobnlrZ29odXJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skzAE1Vo5rVkc/giphy.gif">
 
 - 🔭 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I'm currently studying **LLM** and **Marchine Learning**.
@@ -21,8 +21,8 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
+<div id="user-content-toc" style="margin-top:60px" >
+  <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
