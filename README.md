@@ -82,7 +82,6 @@
 1. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
 2. ⬆️ Pushed 1 commit(s) to [erickloolpez/docker-k8s](https://github.com/erickloolpez/docker-k8s)<br>
 3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
-4. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
