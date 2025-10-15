@@ -79,8 +79,8 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-2. ⬆️ Pushed 1 commit(s) to [erickloolpez/docker-k8s](https://github.com/erickloolpez/docker-k8s)<br>
+1. ⭐ Starred [facebook/lexical](https://github.com/facebook/lexical)<br>
+2. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
 3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
 <!--RECENT_ACTIVITY:end-->
 
