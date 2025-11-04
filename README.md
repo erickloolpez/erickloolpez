@@ -80,7 +80,6 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [facebook/lexical](https://github.com/facebook/lexical)<br>
-2. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
