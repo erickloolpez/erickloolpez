@@ -80,7 +80,6 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
-2. ⭐ Starred [facebook/lexical](https://github.com/facebook/lexical)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
