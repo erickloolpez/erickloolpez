@@ -93,6 +93,6 @@
 
 [twitter]: https://twitter.com/erickloolpez
 [youtube]: https://www.youtube.com/c/erickloolpez
-[linkedin]: https://www.linkedin.com/in/erickloolpez/
+[linkedin]: https://www.linkedin.com/in/erick-l%C3%B3pez-47a85a32b/
 [instagram]: https://www.instagram.com/erickloolpez/
 
