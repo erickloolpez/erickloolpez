@@ -79,10 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
-2. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
-3. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-4. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
+1. ⭐ Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)<br>
+2. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
+3. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
+5. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
