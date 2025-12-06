@@ -83,7 +83,6 @@
 2. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
 3. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
 4. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
-5. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
