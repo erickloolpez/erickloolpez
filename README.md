@@ -79,11 +79,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)<br>
-2. ⭐ Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)<br>
-3. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
-4. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
-5. ⬆️ Pushed undefined commit(s) to [erickloolpez/erickloolpez](https://github.com/erickloolpez/erickloolpez)<br>
+1. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
+2. ⭐ Starred [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)<br>
+3. ⭐ Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)<br>
+4. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
+5. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
