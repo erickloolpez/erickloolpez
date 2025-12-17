@@ -77,17 +77,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
-2. ⭐ Starred [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)<br>
-3. ⭐ Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)<br>
-4. ⭐ Starred [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest)<br>
-5. ⭐ Starred [midudev/disable-cloudflare-cli](https://github.com/midudev/disable-cloudflare-cli)<br>
-<!--RECENT_ACTIVITY:end-->
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickloolpez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erickloolpez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickloolpez&show_icons=true&locale=en&theme=tokyonight" alt="erickloolpez" /></p>
