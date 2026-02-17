@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ViH7YD8.png" />
+<img src="https://i.imgur.com/WVxsA78.png" />
 
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://aristi.dev">erickloolpez</a> 👋</h1>
