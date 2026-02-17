@@ -102,11 +102,11 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickloolpez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erickloolpez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickloolpez&show_icons=true&locale=en&layout=compact&theme=dark" alt="erickloolpez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickloolpez&show_icons=true&locale=en&theme=tokyonight" alt="erickloolpez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickloolpez&show_icons=true&locale=en&theme=dark" alt="erickloolpez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=tokyonight" alt="erickloolpez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" /></p>
 
 
 [twitter]: https://twitter.com/erickloolpez
