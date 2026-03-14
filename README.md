@@ -25,8 +25,10 @@
 <img align="left" width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" />
 <br><br>
 
-- 💪 ***There's nothing wrong with being weak. What's wrong is staying weak.***
+<p>
 
+- 💪 ***There's nothing wrong with being weak. What's wrong is staying weak.***
+</p>
 <img align="left" width="460" src="https://i.imgur.com/W2cbE4L.png" />
 
 
