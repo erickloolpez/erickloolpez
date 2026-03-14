@@ -22,12 +22,15 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" /></p>
+<img align="left" width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" />
+<br><br>
 
-<img src="https://i.imgur.com/W2cbE4L.png" />
+- 💪 ***There's nothing wrong with being weak. What's wrong is staying weak.***
+
+<img align="left" width="460" src="https://i.imgur.com/W2cbE4L.png" />
+
 
 [twitter]: https://twitter.com/erickloolpez
 [youtube]: https://www.youtube.com/c/erickloolpez
 [linkedin]: https://www.linkedin.com/in/erick-l%C3%B3pez-47a85a32b/
 [instagram]: https://www.instagram.com/erickloolpez/
-
