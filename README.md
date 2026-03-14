@@ -20,16 +20,18 @@
 [<img src="./assets/twitter.png"/>][twitter]
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="left" width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" />
-<br><br>
-
-<p>
-
-- 💪 ***There's nothing wrong with being weak. What's wrong is staying weak.***
-</p>
-<img align="left" width="460" src="https://i.imgur.com/W2cbE4L.png" />
+<table>
+  <tr>
+    <td valign="top">
+      <img width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" />
+      <br><br>
+      <img width="460" src="https://i.imgur.com/W2cbE4L.png" />
+    </td>
+    <td valign="center">
+      <p>💪 <i><b>There's nothing wrong with being weak. What's wrong is staying weak.</b></i></p>
+    </td>
+  </tr>
+</table>
 
 
 [twitter]: https://twitter.com/erickloolpez
