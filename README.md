@@ -24,10 +24,7 @@
 
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=erickloolpez&&theme=dark" alt="erickloolpez" /></p>
 
-
-<img src="https://imgur.com/a/hero-da60dP5"/>
-
-
+<img src="https://imgur.com/W2cbE4L"/>
 
 [twitter]: https://twitter.com/erickloolpez
 [youtube]: https://www.youtube.com/c/erickloolpez
